@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jsotobor
+ *
+ */
+module javicircuitbreaker {
+}
